@@ -32,9 +32,9 @@ It converts raw hospital datasets into powerful visual insights—supporting adm
 ## 🎥 Interactive Demo
 **Watch Health 360° in Action**
 
-[![Health-Dashboard-Gif](https://github.com/user-attachments/assets/8b738b57-6560-477a-be91-ddfbb3a83693)]
+![Health-Dashboard-Gif](https://github.com/user-attachments/assets/8b738b57-6560-477a-be91-ddfbb3a83693)
 
-> *Experience real-time filtering, disease mapping, and operational analytics.*
+> Unleash the Power: Experience real-time filtering, precision disease mapping, and integrated operational intelligence at your fingertips.
 
 </div>
 
