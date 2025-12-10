@@ -24,8 +24,23 @@ It converts raw hospital datasets into powerful visual insights—supporting adm
 - Gender-based Disease Spread  
 - Age Risk Distributions  
 
-🎥 Project Demo: Watch a quick walkthrough of the dashboard's key features, including real-time filtering and interactive disease analytics.
-![Health-Dashboard-Gif](https://github.com/user-attachments/assets/8b738b57-6560-477a-be91-ddfbb3a83693)
+---
+<br>
+
+<div align="center">
+
+## 🎥 Interactive Demo
+**Watch Health 360° in Action**
+
+[![Health-Dashboard-Gif](https://github.com/user-attachments/assets/8b738b57-6560-477a-be91-ddfbb3a83693)]
+
+> *Experience real-time filtering, disease mapping, and operational analytics.*
+
+</div>
+
+<br>
+---
+
 
 ## 🧱 Project Structure
 hospital-dashboard/
