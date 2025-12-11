@@ -1,5 +1,5 @@
 # 🖤🏥 Health 360° – Hospital Business & Public Health Intelligence Dashboard
-### Dark Theme • Enterprise Edition • Professional Documentation
+### • Enterprise Edition • Professional Documentation
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge">
@@ -9,7 +9,7 @@
 </p>
 
 ## 🌑 Overview
-Health 360° is a premium hospital analytics dashboard built with a modern dark theme.  
+Health 360° is a premium hospital analytics dashboard built with a modern theme.  
 It converts raw hospital datasets into powerful visual insights—supporting administrators, analysts, and public health organizations with clarity and depth.
 
 ## ✨ Key Features (Dark Mode Optimized)
@@ -33,7 +33,7 @@ It converts raw hospital datasets into powerful visual insights—supporting adm
 **Watch Health 360° in Action**
 
 ![Health-Dashboard-Gif](https://github.com/user-attachments/assets/8b738b57-6560-477a-be91-ddfbb3a83693)
-
+<br>
 > Unleash the Power: Experience real-time filtering, precision disease mapping, and integrated operational intelligence at your fingertips.
 
 </div>
@@ -53,9 +53,10 @@ hospital-dashboard/
 Python, Streamlit, Plotly, Pandas, NumPy
 
 ## ⚙️ Installation
-git clone YOUR_REPO  
-pip install -r requirements.txt  
-streamlit run app.py  
+git clone https://github.com/tanmay8910/hospital-dashboard.git
+cd hospital-dashboard
+pip install -r requirements.txt
+streamlit run app.py
 
 ## 🌐 Deployment
 Deploy free on Streamlit Cloud.
