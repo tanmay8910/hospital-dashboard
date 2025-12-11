@@ -12,7 +12,7 @@
 Health 360° is a premium hospital analytics dashboard built with a modern theme.  
 It converts raw hospital datasets into powerful visual insights—supporting administrators, analysts, and public health organizations with clarity and depth.
 
-## ✨ Key Features (Dark Mode Optimized)
+## ✨ Key Features 
 - Real-time KPIs  
 - Dynamic Year-wise Trends  
 - Top Diseases by Revenue  
@@ -53,10 +53,10 @@ hospital-dashboard/
 Python, Streamlit, Plotly, Pandas, NumPy
 
 ## ⚙️ Installation
-git clone https://github.com/tanmay8910/hospital-dashboard.git<br>
-cd hospital-dashboard<br>
-pip install -r requirements.txt<br>
-streamlit run app.py<br>
+- git clone https://github.com/tanmay8910/hospital-dashboard.git<br>
+- cd hospital-dashboard<br>
+- pip install -r requirements.txt<br>
+- streamlit run app.py<br>
 
 ## 🌐 Deployment
 Deploy free on Streamlit Cloud.
