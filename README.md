@@ -53,10 +53,10 @@ hospital-dashboard/
 Python, Streamlit, Plotly, Pandas, NumPy
 
 ## ⚙️ Installation
-git clone https://github.com/tanmay8910/hospital-dashboard.git
-cd hospital-dashboard
-pip install -r requirements.txt
-streamlit run app.py
+git clone https://github.com/tanmay8910/hospital-dashboard.git<br>
+cd hospital-dashboard<br>
+pip install -r requirements.txt<br>
+streamlit run app.py<br>
 
 ## 🌐 Deployment
 Deploy free on Streamlit Cloud.
